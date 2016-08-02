@@ -1,0 +1,26 @@
+{
+  "name": "hpm-sub",
+  "version": "1.0.0",
+  "description": "Test express sub application with http-proxy-middleware",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/newmanw/hpm-sub.git"
+  },
+  "keywords": [
+    "http-proxy-middleware"
+  ],
+  "author": "Billy Newman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/newmanw/hpm-sub/issues"
+  },
+  "homepage": "https://github.com/newmanw/hpm-sub",
+  "dependencies": {
+    "express": "^4.14.0",
+    "http-proxy-middleware": "^0.17.0"
+  }
+}
